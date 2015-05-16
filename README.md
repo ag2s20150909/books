@@ -28,3 +28,8 @@
   - Programming in Objective-C 第四版.pdf
   - Sams Teach Yourself iPhone Application Development in 24 Hours, 2nd Edition-slicer.pdf
 
+**Linux**
+
+---
+
+  - vim手册.pdf
